@@ -1,6 +1,6 @@
 # ASL Sign Language Translation System
 
-A real-time American Sign Language (ASL) recognition system using deep learning techniques to classify sign language gestures with high accuracy.
+A real-time American Sign Language (ASL) translation system using deep learning techniques to classify sign language gestures with high accuracy.
 
 ## 🎯 Project Overview
 
