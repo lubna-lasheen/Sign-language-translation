@@ -1,5 +1,4 @@
-# Sign-language-translation
-# ASL Sign Language Recognition System
+# ASL Sign Language Translation System
 
 A real-time American Sign Language (ASL) recognition system using deep learning techniques to classify sign language gestures with high accuracy.
 
