@@ -128,18 +128,6 @@ cd asl-sign-language-recognition
 pip install -r requirements.txt
 ```
 
-### Usage
-
-#### Training
-```bash
-python train_model.py
-```
-
-#### Real-time Prediction
-```bash
-python live_prediction.py
-```
-
 ## 📁 Project Structure
 ```
 asl-sign-language-recognition/
@@ -178,26 +166,11 @@ asl-sign-language-recognition/
 - Optimize model for mobile deployment
 - Integrate with speech synthesis for complete translation
 
-## 📝 Citation
-
-If you use this work, please cite:
-```
-[Your Name]. ASL Sign Language Recognition System. [Year]. 
-Available at: [Repository URL]
-```
-
-## 📄 License
-
-[Add your chosen license here]
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📧 Contact
 
-[Your contact information]
-
----
 
 **Note**: This project demonstrates the practical application of deep learning in accessibility technology, achieving high accuracy in real-time ASL recognition.
